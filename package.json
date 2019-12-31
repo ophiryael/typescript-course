@@ -1,0 +1,11 @@
+{
+  "name": "typescript-course",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
