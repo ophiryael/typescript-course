@@ -1,1 +1,3 @@
-console.log('Section 3');
+"use strict";
+var userName = 'Ophir';
+console.log(userName);

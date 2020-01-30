@@ -1,1 +1,3 @@
-console.log('Section 3');
+const userName = 'Ophir';
+
+console.log(userName);
