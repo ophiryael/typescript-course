@@ -1,3 +1,10 @@
 "use strict";
-console.log('Section 5');
+var Department = /** @class */ (function () {
+    function Department(n) {
+        this.name = n;
+    }
+    return Department;
+}());
+var accounting = new Department('Accounting');
+console.log(accounting);
 //# sourceMappingURL=app.js.map
