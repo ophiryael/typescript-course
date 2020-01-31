@@ -71,6 +71,7 @@
   },
   "exclude": [
     "node_modules",
-    "section-2_basics"
+    "section-2_basics",
+    "section-3_compiler"
   ]
 }
