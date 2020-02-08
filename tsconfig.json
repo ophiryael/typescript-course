@@ -72,6 +72,7 @@
   "exclude": [
     "node_modules",
     "section-2_basics",
-    "section-3_compiler"
+    "section-3_compiler",
+    "section-5_classes_and_interfaces"
   ]
 }
