@@ -11,6 +11,7 @@ var Person = /** @class */ (function () {
 }());
 var user1;
 user1 = new Person('Ophir');
+// user1.name = 'Chewbacca';
 user1.greet('Hi there - I am');
 console.log(user1);
 //# sourceMappingURL=app.js.map
