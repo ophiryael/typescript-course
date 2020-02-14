@@ -73,6 +73,7 @@
     "node_modules",
     "section-2_basics",
     "section-3_compiler",
-    "section-5_classes_and_interfaces"
+    "section-5_classes_and_interfaces",
+    "section-6_advanced_types",
   ]
 }
